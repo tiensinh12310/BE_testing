@@ -1,4 +1,11 @@
 # BE TESTING
+
+# START
+- clone source
+- cd ./BE_testing
+- yarn
+- yarn start
+
 # Features
 - Fundamental of Express
 - Fundamental of Mongoose
